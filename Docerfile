@@ -1,6 +1,6 @@
 FROM python:3.10
 
-EXPOSE 2007
+EXPOSE 1512
 
 RUN mkdir -p /opt/services/bot
 WORKDIR /opt/services/bot
